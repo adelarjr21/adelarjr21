@@ -1,4 +1,4 @@
-### Hi there, welcome to my projects 👋
+### Hi there, welcome to my projects 🤓
 
 👦🏻 - My name is Adelar G. de Souza Jr </br>
 🎓 - Graduate in Computer Science </br>
