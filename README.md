@@ -1,8 +1,8 @@
 ### Hi there, welcome to my projects 👋
 
-👦🏻 - My name is Adelar G. de Souza Jr
-🎓 - Graduate in Computer Science
-🏡 - Living in: Arroio Trinta, SC | Videira, SC
+👦🏻 - My name is Adelar G. de Souza Jr </br>
+🎓 - Graduate in Computer Science </br>
+🏡 - Living in: Arroio Trinta, SC | Videira, SC </br>
 🗓 - First 'Hello World' : 1998
 
 - I worked for years with computer networks! Now focused on Web Development
