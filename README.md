@@ -2,8 +2,8 @@
 
 👦🏻 - My name is Adelar Gonçalves de Souza Junior </br>
 🎓 - Graduate in Computer Science </br>
-🏡 - Living in: Itajaí, SC </br>
+🏡 - Living in: Arroio Trinta, SC </br>
 🗓 - First 'Hello World' : 1998
 
-### Learning:
+### Skills:
 HTML | CSS | JavaScript | ReactJS | NodeJS | Git
